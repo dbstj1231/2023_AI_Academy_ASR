@@ -32,6 +32,11 @@ Exercise for WFST using k2
 - C,L,G transducer
 - composition, determinization
 
+## 8. E2E ASR model finetune with HuggingFace
+Wav2Vec2.0 Model finetune with HunggingFace(English to Korean)
+
+Whisper Model finetune with HunggingFace(English to Korean)
+
 ---------------
 # Course Materials
 ## Chapter 1
